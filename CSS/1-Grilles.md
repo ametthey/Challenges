@@ -28,7 +28,6 @@ Vous pouvez éditer ce fichier directement sur github en mettant votre pseudo su
 - Roman R - https://codepen.io/romanryckebusch/pen/abvjJxw?editors=1100 (autofill, A11Y)
 - Bokad - https://jsfiddle.net/veq0Lf6y/
 - BaptouFou - https://repl.it/repls/WorthwhileSeashellIrc
-- Yann - https://codepen.io/yann-marec/pen/VwvBbYB
 - HugoWit - https://jsfiddle.net/Hugowit/6qud1yrp/8/
 - Choulss (grid+flex) - https://codesandbox.io/s/heuristic-cherry-4t3xk?file=/style.css (bonne gestion du format tablette)
 - PhiSyX - https://jsfiddle.net/PhiSyX/Lrzyvepd/ (bonne gestion du format tablette)
@@ -57,6 +56,7 @@ Vous pouvez éditer ce fichier directement sur github en mettant votre pseudo su
 ### Grid & Flex
 
 - akbak - https://codesandbox.io/s/xenodochial-cerf-3f0z0
+- Fonai https://jsfiddle.net/ametthey/gL7qy5us/68/
 
 ### Framework CSS 
 
